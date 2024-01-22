@@ -1,0 +1,213 @@
+country	2016
+Aruba	883.747
+Afghanistan	3476.316
+Angola	17931.63
+Albania	3362.639
+Andorra	469.376
+United Arab Emirates	52335.424
+Argentina	88792.738
+Armenia	828.742
+American Samoa	0.0
+Antigua And Barbuda	557.384
+Australia	118909.809
+Austria	31312.513
+Azerbaijan	12244.113
+Burundi	429.039
+Belgium	50446.919
+Benin	5258.478
+Burkina Faso	3267.297
+Bangladesh	15449.071
+Bulgaria	12218.444
+Bahrain	3802.679
+Bahamas	1782.162
+Bosnia And Herzegovina	4840.44
+Belarus	16835.197
+Belize	564.718
+Bermuda	612.389
+Bolivia	10773.646
+Brazil	296990.33
+Barbados	1158.772
+Brunei	1804.164
+Bhutan	480.377
+Botswana	2757.584
+Central African Republic	297.027
+Canada	252538.956
+Switzerland	24884.262
+Chile	46101.524
+China	1336397.813
+Ivory Coast	3560.657
+Cameroon	5969.876
+Dr Congo	1914.174
+Republic Of The Congo	2321.211
+Colombia	49196.472
+Comoros	201.685
+Cape Verde	542.716
+Costa Rica	6926.963
+Cuba	25254.629
+Curacao	5115.465
+Cayman Islands	546.383
+Cyprus	6079.886
+Czech Republic	20271.176
+Germany	252344.605
+Djibouti	531.715
+Dominica	179.683
+Denmark	16846.198
+Dominican Republic	17891.293
+Algeria	53519.865
+Ecuador	34257.114
+Egypt	114876.109
+Eritrea	612.389
+Spain	140244.415
+Estonia	1004.758
+Ethiopia	9556.202
+Finland	22856.411
+Fiji	1936.176
+France	0.0
+Faroe Islands	630.724
+Micronesia	143.013
+Gabon	2460.557
+United Kingdom	167816.588
+Georgia	3883.353
+Ghana	13256.205
+Gibraltar	634.391
+Guinea	2746.583
+Gambia	524.381
+Guinea Bissau	293.36
+Equatorial Guinea	729.733
+Greece	34708.155
+Grenada	267.691
+Greenland	509.713
+Guatemala	10872.655
+Guam	0.0
+Guyana	2185.532
+Hong Kong	11063.339
+Honduras	8533.109
+Croatia	8896.142
+Haiti	2878.595
+Hungary	17282.571
+Indonesia	211802.253
+Isle Of Man	0.0
+India	648956.324
+Ireland	18687.032
+Iran	215157.558
+Iraq	142653.634
+Iceland	1686.82
+Israel	22786.738
+Italy	0.0
+Jamaica	7576.022
+Jordan	14873.352
+Japan	442628.902
+Kazakhstan	42691.214
+Kenya	13263.539
+Kyrgyzstan	5115.465
+Cambodia	6435.585
+Kiribati	66.006
+Saint Kitts And Nevis	238.355
+South Korea	188307.784
+Kuwait	54685.971
+Laos	2918.932
+Lebanon	21459.284
+Liberia	1265.115
+Libya	29864.048
+Saint Lucia	414.371
+Liechtenstein	0.0
+Sri Lanka	16486.832
+Lesotho	803.073
+Lithuania	7535.685
+Luxembourg	6611.601
+Latvia	3762.342
+Macau	1749.159
+Sint Maarten	0.0
+Morocco	34682.486
+Monaco	0.0
+Moldova	2464.224
+Madagascar	2731.915
+Maldives	1444.798
+Mexico	252597.628
+Marshall Islands	143.013
+North Macedonia	2845.592
+Mali	2863.927
+Malta	1342.122
+Myanmar	14502.985
+Montenegro	832.409
+Mongolia	3050.944
+Northern Mariana Islands	0.0
+Mozambique	5625.178
+Mauritania	2299.209
+Mauritius	2632.906
+Malawi	931.418
+Malaysia	87747.643
+Namibia	3689.002
+New Caledonia	2849.259
+Niger	1631.815
+Nigeria	61664.272
+Nicaragua	5243.81
+Netherlands	62936.721
+Norway	23373.458
+Nepal	5394.157
+Nauru	47.671
+New Zealand	19479.104
+Oman	6178.895
+Pakistan	83020.88
+Panama	8786.132
+Peru	31928.569
+Philippines	56189.441
+Palau	223.687
+Papua New Guinea	5823.196
+Poland	66251.689
+Puerto Rico	0.0
+North Korea	3201.291
+Portugal	26006.364
+Paraguay	6802.285
+Palestine	3234.294
+French Polynesia	770.07
+Qatar	2497.227
+Romania	23846.501
+Russia	391342.24
+Rwanda	861.745
+Saudi Arabia	322490.648
+Sudan	17997.636
+Senegal	6831.621
+Singapore	15852.441
+Solomon Islands	168.682
+Sierra Leone	931.418
+El Salvador	6670.273
+San Marino	0.0
+Somalia	645.392
+Serbia	8896.142
+South Sudan	1727.157
+Sao Tome And Principe	121.011
+Suriname	1653.817
+Slovakia	8577.113
+Slovenia	6820.62
+Sweden	32126.587
+Seychelles	605.055
+Syria	19754.129
+Turks And Caicos Islands	216.353
+Chad	916.75
+Togo	2236.87
+Thailand	120086.916
+Tajikistan	2394.551
+Turkmenistan	19985.15
+Timor Leste	495.045
+Tonga	128.345
+Trinidad And Tobago	5705.852
+Tunisia	13193.866
+Turkey	99383.034
+Tuvalu	11.001
+Tanzania	8045.398
+Uganda	4437.07
+Ukraine	33109.343
+Uruguay	6274.237
+United States	2127054.351
+Uzbekistan	6560.263
+Saint Vincent And The Grenadines	220.02
+Venezuela	76973.997
+United States Virgin Islands	0.0
+Vietnam	52559.111
+Vanuatu	146.68
+Samoa	245.689
+Yemen	8104.07
+South Africa	60424.826
+Zambia	2940.934
+Zimbabwe	3164.621
